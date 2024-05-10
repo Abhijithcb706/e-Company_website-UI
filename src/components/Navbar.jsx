@@ -11,7 +11,7 @@ const Navbar = () => {
     }
 
 return (
-<div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white'>
+<div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white ' >
     {/* <img src='https://st2.depositphotos.com/1024516/7326/v/450/depositphotos_73261477-stock-illustration-vector-logo-for-letter-e.jpg'
         className='h-8 mr-3 pt-1 sm:hidden md:hidden'></img> */}
     <h1 className='w-full text-3xl font-bold text-[#00df9a]'>e-Company</h1>
